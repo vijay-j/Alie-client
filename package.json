@@ -1,0 +1,21 @@
+{
+  "name": "Alie-client",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Vijay Jandhyala",
+  "homepage": "",
+  "scripts": { "start": "nodemon app.js" },
+  "dependencies": {
+    "node-record-lpcm16": "0.3.0",
+    "snowboy": "1.2.0"
+  },
+  "devDependencies": {
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
